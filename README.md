@@ -1,2 +1,6 @@
 # Data-Mining
 Mortality Prediction after the First Year of Kidney Transplantation, project
+
+The dataset contains the history of kidney transplantation, specifically, medical characteristics of recipients and donors, as well as the time duration between the first anniversary of the transplantation and the patient's death with and without a functioning graft. The dataset was taken from the DIVAT (Données Informatisées et VAlidées en Transplantation) cohort containing the data of the patients transplanted between 2000 and 2012 in 6 French centers [1](Lorent M., Giral m.).
+
+Our data mining goal is to predict the chances of having successful functioning graft transplantation (e.g. changes of whether or not patients’ body will accept well the functioning graft) based on recipients’ and donors’ characteristics by analyzing both records of patients with a graft who died because of the failure of a graft or other reasons such as car accident after first year of kidney transplantation. We want to build a prediction model for kidney transplantation: 0 is successful kidney transplantation, 1 indicates failure of the kidney functioning graft. The reason is that identification and quantification of the relevant factors for death can improve patients’ individual risk assessment and decision-making.
